@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요! 모두의 아이돌 README.md 파일입니다 👋
 
 <!--
 
@@ -10,3 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
