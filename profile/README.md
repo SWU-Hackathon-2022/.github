@@ -45,4 +45,4 @@ kpop의 지나친 상업화/상품화/공장식 운영에서 벗어나 독립적
 
 ## 영상 유튜브 링크
 
-TODO
+https://www.youtube.com/watch?v=ukK1i5kk720
