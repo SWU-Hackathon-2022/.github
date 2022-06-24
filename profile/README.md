@@ -42,7 +42,7 @@ kpop의 지나친 상업화/상품화/공장식 운영에서 벗어나 독립적
    해커톤을 통해 짧은 시간동안 팀원들과 소통하고 협업하면서 많이 배우고 갑니다!<br>
    <br><br>
 5. 삼육대학교 아트앤디자인학과 성예지<br>
-<br>![삼육대_LEAD_성예지](https://user-images.githubusercontent.com/48791369/175446042-afc4d597-cd85-4d43-b3bc-26a6b55ff8f7.jpg){: width="200" height="200"}<br>
+<br>![삼육대_LEAD_성예지](https://user-images.githubusercontent.com/48791369/175446042-afc4d597-cd85-4d43-b3bc-26a6b55ff8f7.jpg){: width="100px" height="100px"}<br>
 삼육대학교에 재학중인 성예지입니다.<br>
 이번 모.아이. 프로젝트에서 디자인을 담당하게 되었습니다. <br>
 프론트에도 관심이 있어서 최근 열심히 공부하고 있습니다!<br>
